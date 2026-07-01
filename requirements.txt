@@ -1,0 +1,10 @@
+# Classical Machine Learning with scikit-learn
+# Core stack used across src/ scripts
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Present only in a trailing experimental import (fish multiclass script);
+# not required for the scikit-learn workflows themselves.
+# tensorflow
